@@ -1,0 +1,8 @@
+{
+  "images": [
+    { "name": "images/Bob.png", "size": 11708875 },
+    { "name": "images/nice.jpg", "size": 3905494 },
+    { "name": "images/bulb.jpeg", "size": 419318 },
+    { "name": "images/trees.jpg", "size": 1258767 }
+  ]
+}
