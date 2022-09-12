@@ -33,3 +33,8 @@
 > ## Results
 
 ![images.JSON](/images/lambda.png)
+
+> ## Collaborators
+
+- Jom Doyle
+- Josh McClung
